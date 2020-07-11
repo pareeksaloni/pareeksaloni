@@ -1,45 +1,21 @@
 # Piyush Agarwal
-[![Twitter Badge](https://img.shields.io/badge/-@PiyushAgarwal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piyush_0108)](https://twitter.com/piyush_0108) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@PiyushAgarwal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Piyush_0108)](https://twitter.com/Piyush_0108) [![Linkedin Badge](https://img.shields.io/badge/-PiyushAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushagarwal08/)](https://www.linkedin.com/in/piyushagarwal08/)
+[![Gmail Badge](https://img.shields.io/badge/-piyushagarwal.0108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushagarwal.0108@gmail.com)](mailto:piyushagarwal.0108@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiasts, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later carrier.  
+I'm Piyush Agarwal, Student at 👨‍💻 JECRC University Pursuing B.Tech. I am a student developer love to spend time with techy stuff and exploring new things and people.
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
+- 😄 I love to automate things which are boring and can be done faster through bots
+- 🔭 I am currently an Student A Lister for Automation Anywhere at JECRC University
+- 🌱 I love working on linux terminals and Python and prefer A2019 as well as UiPath for major or my Automation Projects
+- ⚡ I’m currently learning about Linux (Deep Dive)
 - 👯 And Many More...
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food! 
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919057529646)
+- ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me 
+- 💬 Ping Me about #RPA (its my life), #Python, #DevOps, #Docker ,#Docker #Automation and anything you like
 ---
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
--->
-
-
-
-### Hi there 👋
-
-<!--
-**piyushagarwal08/piyushagarwal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
