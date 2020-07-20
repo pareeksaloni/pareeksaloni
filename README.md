@@ -19,3 +19,5 @@ I'm Piyush Agarwal, Student at 👨‍💻 JECRC University Pursuing B.Tech. I a
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me 
 - 💬 Ping Me about #RPA (its my life), #Python, #DevOps, #Docker ,#Docker #Automation and anything you like
 ---
+
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushagarwal08&show_icons=true)
