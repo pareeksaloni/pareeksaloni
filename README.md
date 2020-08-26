@@ -9,7 +9,7 @@ I'm Piyush Agarwal, Student at 👨‍💻 JECRC University Pursuing B.Tech. I a
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I love to automate things which are boring and can be done faster through bots
 - 🔭 I am currently an Student A Lister for Automation Anywhere at JECRC University
-- 🌱 I love working on linux terminals and Python and prefer A2019 as well as UiPath for major or my Automation Projects
+- 🌱 I love working on linux terminals and Python and prefer A2019 as well as UiPath for major of my Automation Projects
 - ⚡ I’m currently learning about Linux (Deep Dive)
 - 👯 And Many More...
 
