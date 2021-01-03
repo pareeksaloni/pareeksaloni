@@ -3,14 +3,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-piyushagarwal.0108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushagarwal.0108@gmail.com)](mailto:piyushagarwal.0108@gmail.com)
 ---
 ## Hi there 👋,           
-I'm Piyush Agarwal, Student at 👨‍💻 JECRC University Pursuing B.Tech. I am a student developer love to spend time with techy stuff and exploring new things and people.
+I'm Piyush Agarwal, 👨‍💻 Pursuing B.Tech CSE. I am a developer who loves to spend time with techy stuff and exploring new things and meeting different people.
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I love to automate things which are boring and can be done faster through bots
-- 🔭 I am currently an Student A Lister for Automation Anywhere at JECRC University
 - 🌱 I love working on linux terminals and Python and prefer A2019 as well as UiPath for major of my Automation Projects
-- ⚡ I’m currently learning about Linux (Deep Dive)
+- ⚡ I’m currently learning about Flask and Full Stack Web Development
 - 👯 And Many More...
 
 # Hello World!! 🤔
