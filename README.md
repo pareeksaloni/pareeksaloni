@@ -1,6 +1,6 @@
 # Saloni Pareek
-[![Twitter Badge](https://img.shields.io/badge/-@PiyushAgarwal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Piyush_0108)](https://twitter.com/Piyush_0108) [![Linkedin Badge](https://img.shields.io/badge/-PiyushAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushagarwal08/)](https://www.linkedin.com/in/piyushagarwal08/)
-[![Gmail Badge](https://img.shields.io/badge/-piyushagarwal.0108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushagarwal.0108@gmail.com)](mailto:piyushagarwal.0108@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@SaloniPareek23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/SaloniPareek23)](https://twitter.com/https://twitter.com/SaloniPareek23) [![Linkedin Badge](https://img.shields.io/badge/-Salonipareek23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salonipareek23/)](https://www.linkedin.com/in/salonipareek23/)
+[![Gmail Badge](https://img.shields.io/badge/-pareeksaloni389@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pareeksaloni389@gmail.com)](mailto:pareeksaloni389@gmail.com)
 ---
 ## Hi there 👋,           
 I'm Saloni Pareek, 👨‍💻 Pursuing B.Tech CSE. I am a developer who loves to spend time with techy stuff and exploring new things and meeting different people.
